@@ -160,5 +160,5 @@ ws.wm_attributes("-topmost", 1)
 ws.resizable(False, False)
 board = Snake()
 board.pack()
-print("GAME_SNAKE".lower())
+
 ws.mainloop()
